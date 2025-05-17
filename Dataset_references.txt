@@ -1,0 +1,6 @@
+
+DATASET:- ANNUAL_EMISSION [LINK] https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022
+
+DATASET :- GLOBAL AP [LINK] https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
+
+DATASET :- Green house [API Link] https://datasource.kapsarc.org/explore/dataset/total-global-greenhouse-gas-emissions/information/?disjunctive.world_region&disjunctive.country&disjunctive.substance
